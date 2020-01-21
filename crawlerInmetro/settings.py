@@ -24,10 +24,10 @@ ROBOTSTXT_OBEY = False
 
 #Db settings
 CONNECTION_STRING = {
-    'drivername':'mssql+pymssql',
-    'username':'contrato_dev',
-    'password':'jnhfaksjdhfb987x32',
-    'host':'srvsqlpae01.sulgas.rs.gov.br',
-    'port':'62374',
-    'database':'portal_cliente'
+    'drivername':???,
+    'username':???,
+    'password':???,
+    'host':???,
+    'port':???,
+    'database':???
 }
